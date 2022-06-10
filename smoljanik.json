@@ -1,0 +1,134 @@
+[
+	{
+		"tokenData": {
+			"name": "",
+			"symbol": "Smoll",
+			"uri": "https://testlaunchmynft.mypinata.cloud/ipfs/Qmf4T9W1gK47vHQNLgRy3E9iLHntvTGZWjsxnm7FAa63Dq/18.json",
+			"sellerFeeBasisPoints": 750,
+			"creators": [
+				{
+					"share": 0,
+					"address": {
+						"0": 255,
+						"1": 114,
+						"2": 185,
+						"3": 112,
+						"4": 29,
+						"5": 161,
+						"6": 34,
+						"7": 151,
+						"8": 17,
+						"9": 211,
+						"10": 9,
+						"11": 205,
+						"12": 53,
+						"13": 141,
+						"14": 166,
+						"15": 80,
+						"16": 158,
+						"17": 223,
+						"18": 234,
+						"19": 68,
+						"20": 161,
+						"21": 184,
+						"22": 43,
+						"23": 208,
+						"24": 142,
+						"25": 135,
+						"26": 97,
+						"27": 144,
+						"28": 114,
+						"29": 26,
+						"30": 149,
+						"31": 206
+					},
+					"verified": true
+				},
+				{
+					"share": 100,
+					"address": {
+						"0": 13,
+						"1": 1,
+						"2": 178,
+						"3": 182,
+						"4": 64,
+						"5": 253,
+						"6": 129,
+						"7": 63,
+						"8": 69,
+						"9": 234,
+						"10": 68,
+						"11": 165,
+						"12": 112,
+						"13": 64,
+						"14": 16,
+						"15": 239,
+						"16": 101,
+						"17": 198,
+						"18": 107,
+						"19": 141,
+						"20": 174,
+						"21": 2,
+						"22": 8,
+						"23": 174,
+						"24": 211,
+						"25": 176,
+						"26": 238,
+						"27": 252,
+						"28": 156,
+						"29": 30,
+						"30": 167,
+						"31": 196
+					},
+					"verified": false
+				}
+			]
+		},
+		"metadata": {
+			"name": "Arch Sage Janik",
+			"symbol": "Smoll",
+			"description": "we are too small for you to see",
+			"seller_fee_basis_points": 750,
+			"image": "https://testlaunchmynft.mypinata.cloud/ipfs/QmSRMU1XT7TZ9mEC13bnx52RFeWAQVnLDmm5JAK3LEiUQ8/18.gif",
+			"external_url": "",
+			"collection": {
+				"name": "SmolLana",
+				"family": "LaunchMyNFT"
+			},
+			"attributes": [
+				{
+					"trait_type": "Background",
+					"value": "Blue"
+				},
+				{
+					"trait_type": "Smoll",
+					"value": "Janik"
+				},
+				{
+					"trait_type": "Weapon",
+					"value": "Sage Staff"
+				},
+				{
+					"trait_type": "Rarity Rank",
+					"value": "1/1"
+				}
+			],
+			"properties": {
+				"files": [
+					{
+						"uri": "https://raw.githubusercontent.com/smollana/img/f97c5b35cbe78516712c4b5721f8fd227bc95597/Janik.gif",
+						"type": "image/gif"
+					}
+				],
+				"category": "image",
+				"creators": [
+					{
+						"address": "smoWW7p17uGNnmTZzqyYyDAib5CRXtvbb95PvipCHqV",
+						"share": 100
+					}
+				]
+			}
+		},
+		"mint": "8Aj7pEPWYpBrFtv7UPjuMD1qcK4rKYeEFvewzTYVPNQp"
+	}
+]
