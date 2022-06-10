@@ -1,9 +1,9 @@
 [
 	{
 		"tokenData": {
-			"name": "",
+			"name": "Arch Sage Janik",
 			"symbol": "Smoll",
-			"uri": "https://testlaunchmynft.mypinata.cloud/ipfs/Qmf4T9W1gK47vHQNLgRy3E9iLHntvTGZWjsxnm7FAa63Dq/18.json",
+			"uri": "https://raw.githubusercontent.com/smollana/img/f97c5b35cbe78516712c4b5721f8fd227bc95597/Janik.gifn",
 			"sellerFeeBasisPoints": 750,
 			"creators": [
 				{
@@ -89,7 +89,7 @@
 			"symbol": "Smoll",
 			"description": "we are too small for you to see",
 			"seller_fee_basis_points": 750,
-			"image": "https://testlaunchmynft.mypinata.cloud/ipfs/QmSRMU1XT7TZ9mEC13bnx52RFeWAQVnLDmm5JAK3LEiUQ8/18.gif",
+			"image": "https://raw.githubusercontent.com/smollana/img/f97c5b35cbe78516712c4b5721f8fd227bc95597/Janik.gif",
 			"external_url": "",
 			"collection": {
 				"name": "SmolLana",
