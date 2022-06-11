@@ -1,0 +1,45 @@
+{
+			"name": "Sword Princess",
+			"symbol": "Smoll",
+			"description": "we are too small for you to see",
+			"seller_fee_basis_points": 750,
+			"image": "https://raw.githubusercontent.com/smollana/img/main/SwordPrincess.gif",
+			"external_url": "",
+			"collection": {
+				"name": "SmolLana",
+				"family": "LaunchMyNFT"
+			},
+			"attributes": [
+				{
+					"trait_type": "Background",
+					"value": "Green"
+				},
+				{
+					"trait_type": "Smoll",
+					"value": "Princess"
+				},
+				{
+					"trait_type": "Weapon",
+					"value": "Hero Sword"
+				},
+				{
+					"trait_type": "Rarity Rank",
+					"value": "1/1"
+				}
+			],
+			"properties": {
+				"files": [
+					{
+						"uri": "https://raw.githubusercontent.com/smollana/img/main/SwordPrincess.gif",
+						"type": "image/gif"
+					}
+				],
+				"category": "image",
+				"creators": [
+					{
+						"address": "smoWW7p17uGNnmTZzqyYyDAib5CRXtvbb95PvipCHqV",
+						"share": 100
+					}
+				]
+			}
+		}
